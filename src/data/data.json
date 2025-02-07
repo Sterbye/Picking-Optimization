@@ -1,0 +1,162 @@
+[
+  {
+    "positionId": "position-31",
+    "x": 3,
+    "y": 1,
+    "z": 0,
+    "productId": "product-1",
+    "quantity": 13
+  },
+  {
+    "positionId": "position-449",
+    "x": 87,
+    "y": 7,
+    "z": 100,
+    "productId": "product-1",
+    "quantity": 4
+  },
+  {
+    "positionId": "position-102",
+    "x": 15,
+    "y": 10,
+    "z": 5,
+    "productId": "product-2",
+    "quantity": 20
+  },
+  {
+    "positionId": "position-205",
+    "x": 45,
+    "y": 3,
+    "z": 8,
+    "productId": "product-3",
+    "quantity": 7
+  },
+  {
+    "positionId": "position-378",
+    "x": 78,
+    "y": 12,
+    "z": 50,
+    "productId": "product-4",
+    "quantity": 15
+  },
+  {
+    "positionId": "position-512",
+    "x": 23,
+    "y": 6,
+    "z": 2,
+    "productId": "product-2",
+    "quantity": 11
+  },
+  {
+    "positionId": "position-689",
+    "x": 99,
+    "y": 9,
+    "z": 20,
+    "productId": "product-1",
+    "quantity": 18
+  },
+  {
+    "positionId": "position-743",
+    "x": 12,
+    "y": 15,
+    "z": 7,
+    "productId": "product-3",
+    "quantity": 5
+  },
+  {
+    "positionId": "position-812",
+    "x": 67,
+    "y": 2,
+    "z": 30,
+    "productId": "product-4",
+    "quantity": 9
+  },
+  {
+    "positionId": "position-901",
+    "x": 34,
+    "y": 8,
+    "z": 14,
+    "productId": "product-2",
+    "quantity": 6
+  },
+  {
+    "positionId": "position-1001",
+    "x": 20,
+    "y": 4,
+    "z": 10,
+    "productId": "product-5",
+    "quantity": 12
+  },
+  {
+    "positionId": "position-1002",
+    "x": 40,
+    "y": 8,
+    "z": 15,
+    "productId": "product-5",
+    "quantity": 9
+  },
+  {
+    "positionId": "position-1101",
+    "x": 50,
+    "y": 5,
+    "z": 18,
+    "productId": "product-6",
+    "quantity": 14
+  },
+  {
+    "positionId": "position-1201",
+    "x": 60,
+    "y": 10,
+    "z": 22,
+    "productId": "product-7",
+    "quantity": 11
+  },
+  {
+    "positionId": "position-1301",
+    "x": 70,
+    "y": 3,
+    "z": 25,
+    "productId": "product-8",
+    "quantity": 8
+  },
+  {
+    "positionId": "position-1401",
+    "x": 80,
+    "y": 12,
+    "z": 30,
+    "productId": "product-9",
+    "quantity": 17
+  },
+  {
+    "positionId": "position-1501",
+    "x": 90,
+    "y": 6,
+    "z": 35,
+    "productId": "product-10",
+    "quantity": 20
+  },
+  {
+    "positionId": "position-1601",
+    "x": 10,
+    "y": 7,
+    "z": 40,
+    "productId": "product-11",
+    "quantity": 10
+  },
+  {
+    "positionId": "position-1701",
+    "x": 30,
+    "y": 8,
+    "z": 45,
+    "productId": "product-12",
+    "quantity": 15
+  },
+  {
+    "positionId": "position-1801",
+    "x": 50,
+    "y": 9,
+    "z": 50,
+    "productId": "product-13",
+    "quantity": 12
+  }
+]
