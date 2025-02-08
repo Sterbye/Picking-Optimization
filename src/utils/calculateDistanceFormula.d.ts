@@ -8,8 +8,5 @@
  * @param {Object} b - The second point, with `x`, `y`, and `z` coordinates.
  * @returns {number} The Euclidean distance between point `a` and point `b`.
  */
-export const calculateDistance = (a: any, b: any): number => {
-  return Math.sqrt(
-    Math.pow(a.x - b.x, 2) + Math.pow(a.y - b.y, 2) + Math.pow(a.z - b.z, 2)
-  );
-};
+export declare const calculateDistance: (a: any, b: any) => number;
+//# sourceMappingURL=calculateDistanceFormula.d.ts.map
