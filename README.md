@@ -6,16 +6,16 @@
 
 <h3>How to start</h3>
 <ul>
-  <li>Clone repository</li>
-  <li>NPM install</li>
-  <li>NPM start</li>
+  <li>Clone repository: <pre>git clone https://github.com/Sterbye/Picking-Optimization.git</pre></li>
+  <li>Install dependencies: <pre>cd project_name </br>npm install<pre></li>
+  <li>Start server: <pre>npm start</pre></li>
 </ul>
 
 <h3>Test endpoint</h3>
 <ul>
   <li>Use Postman/Insomnia</li>
   <li>POST request</li>
-  <li>Url: http://localhost:3000/api/optimize-picking</li>
+  <li>URL: <pre>http://localhost:3000/api/optimize-picking</pre></li>
 </ul>
 
 <p>Sample data: </p>
