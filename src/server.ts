@@ -4,6 +4,9 @@
  * This app sets up the necessary middleware, routes, and server configurations for the application.
  * It allows clients to request product data, optimize the picking order, and access a default server endpoint.
  */
+import * as dotenv from "dotenv";
+dotenv.config();
+
 import express, { Application } from "express";
 import helmet from "helmet";
 import cors from "cors";
@@ -46,9 +49,7 @@ app.use("/api/optimize-picking", optimizePicking);
  * @returns {string} A message with instructions on how to use the API.
  */
 app.get("/", (req, res) => {
-  res.json(
-    `Server starter endpoint, if you want to optimize picking, please visit http://localhost:3000/api/optimize-picking`
-  );
+  res.json("Server starter endpoint.");
 });
 
 /**
@@ -59,6 +60,8 @@ app.get("/", (req, res) => {
  * @function
  * @listens 3000
  */
-app.listen(3000, () => {
-  console.log(`Server is running on http://localhost:3000`);
+
+const PORT = process.env.PORT;
+app.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
